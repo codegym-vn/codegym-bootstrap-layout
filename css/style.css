@@ -2,8 +2,13 @@
     height: 40px;
 }
 .banner {
-    background: url("../images/banner.jpg");
     height:350px;
+}
+.slide1 {
+    background: url("../images/banner.jpg");
+}
+.slide2 {
+    background: url("../images/banner2.png");
 }
 .banner .heading {
     padding: 100px 50px;
